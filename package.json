@@ -31,7 +31,7 @@
     "test": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "exif-js": "^2.3.0",
+    "exif-js": "activeliang/exif-js#master",
     "rxjs": "^6.5.2",
     "vue-rx": "^6.0.1"
   },
